@@ -11,7 +11,7 @@
 </div>
 <div class="mt-20 justify-center flex">
     <!-- svelte-ignore a11y-missing-attribute -->
-    <img src={data.url}/>
+    <img src={data.message}/>
 </div>
 <div class="mt-6">
     <h3 class="text-white text-2xl font-semibold">Credits to Cappy (Aleph)#3287</h3>
